@@ -10,4 +10,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 
 
-  document.getElementById("clickMe").onclick = function () { alert('Not ready yet!'); };
+  //document.getElementById("clickMe").onclick = function () { alert('Not ready yet!'); };
